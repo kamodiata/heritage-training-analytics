@@ -1,2 +1,0 @@
-mkdir -p npo-heritage-training-analytics/{data,notebooks,scripts,dashboard}
-cd npo-heritage-training-analytics
